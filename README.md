@@ -13,3 +13,13 @@ Desenvolvimento de um jogo de Sudoku para prática de POO, com versão rodando a
   
 ![image](https://github.com/user-attachments/assets/3d384fbd-b676-4669-ac72-5571ca97af5e)
 </details>
+
+# Painel de Tarefas
+Desenvolvimento de um simples painel de tarefas(semelhante ao Trello) em Java nativo rodando através do prompt de comando, em banco de dados MySQL.
+
+<details>
+  <summary> Painel</summary>
+
+  ![image](https://github.com/user-attachments/assets/716e81d2-efa3-4e3f-9ffd-6ad98533d198)
+
+</details>
